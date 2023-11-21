@@ -2,7 +2,7 @@
 <h3 align="center">A passionate C & C++ Developer from IRAN</h3>
 
 <p align="center"> 
-  <img align="center" alt="wallpaper" src="[https://github.com/masoudd2159/masoudd2159/blob/main/images/android.png](https://github.com/Rdabbaghi/Rdabbaghi/blob/main/Picture/b6d02199-58bc-4240-886f-65de62e6b773.png)"/>
+  <img align="center" alt="wallpaper" src="https://github.com/Rdabbaghi/Rdabbaghi/blob/main/Picture/C.png"/>
 </p>
 
 <p align="center"> 
