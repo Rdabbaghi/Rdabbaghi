@@ -1,10 +1,10 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,I'm Reza</h1>
 <h3 align="center">A passionate C & C++ Developer from IRAN</h3>
 
-/*<p align="center"> 
+<p align="center"> 
   <img align="center" alt="wallpaper" src="https://github.com/Rdabbaghi/Rdabbaghi/blob/main/Picture/C.png"/>
 </p>
-*/
+
 <p align="center"> 
   <a href="mailto:rezadabbagh80@gmail.com">
     <img src="https://img.shields.io/badge/-RezaDabbaghi@gmail.com-C5221F?style=flat&logo=Gmail&logoColor=white&link=mailto:rezadabbagh80@gmail.com/" 
